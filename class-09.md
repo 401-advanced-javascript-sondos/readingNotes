@@ -1,5 +1,13 @@
 
-
+## router.param(name, callback)
+* Adds callback triggers to route parameters, where name is the name of the parameter and callback is the callback function.
+* The parameters of the callback function are:
+  - req, the request object.
+  - res, the response object.
+  - next, indicating the next middleware function.
+  - The value of the name parameter.
+  - The name of the parameter.
+`Unlike app.param(), router.param() does not accept an array of route parameters.`  
 * Mongoose -> has 4 types of middleware: document middleware, model middleware, aggregate middleware, and query middleware. 
 * Subdocuments :  are documents embedded in other documents. In Mongoose, this means you can nest schemas in other schemas. Mongoose has two distinct notions of subdocuments: arrays of subdocuments and single nested subdocuments.
 * Populate Virtuals: In particular, arrays that grow without bound are a MongoDB anti-pattern. Using mongoose virtuals, you can define more sophisticated relationships between documents.
