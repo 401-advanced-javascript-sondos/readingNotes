@@ -50,3 +50,4 @@ In its compact form, JSON Web Tokens consist of three parts separated by dots (.
 * API Endpoint : describes a point at which an application program interface (API) -- the code that allows two software programs to communicate with each other.
 * Authorization Code : is a temporary code that the client will exchange for an access token. The code itself is obtained from the authorization 
 *  Access Token : is an object that describes the security context of a process or thread.
+
