@@ -22,5 +22,9 @@ class | linke
 17. class17  | [link 17](class-17.md)
 18. class18  | [link 18](class-18.md)
 19. class19  | [link 19](class-19.md)
-20. class20  | [link 20](class-20.md)
-21. class21  | [link 21](class-21.md)
+26. class26  | [link 26](class-26.md)
+27. class27  | [link 27](class-27.md)
+28. class28  | [link 28](class-28.md)
+29. class29  | [link 29](class-29.md)
+30. class30  | [link 30](class-30.md)
+
