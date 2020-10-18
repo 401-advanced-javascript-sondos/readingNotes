@@ -27,4 +27,8 @@ class | linke
 28. class28  | [link 28](class-28.md)
 29. class29  | [link 29](class-29.md)
 30. class30  | [link 30](class-30.md)
+31. class31  | [link 31](class-31.md)
+32. class32  | [link 32](class-32.md)
+33. class33  | [link 33](class-33.md)
+34. class34  | [link 34](class-34.md)
 
